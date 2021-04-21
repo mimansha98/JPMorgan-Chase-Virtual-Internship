@@ -1,7 +1,3 @@
-From 4cde999555e2eb3708e36ddc2a6e006fa58f08b3 Mon Sep 17 00:00:00 2001
-From: mimansha <mimanshaagrawal1998@gmail.com>
-Date: Sat, 6 Jun 2020 20:33:27 +0000
-Subject: [PATCH] Create Patch File
 
 ---
  client3.py | 11 +++++++----
